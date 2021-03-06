@@ -1,5 +1,5 @@
 function main() {
 
-document.location = "../php/index.php"
+document.location = "php/index.php"
 
 }
